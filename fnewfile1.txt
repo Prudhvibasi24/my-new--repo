@@ -1,3 +1,5 @@
 Demo is on avialble on git hub
 We want to acess the git hub
 forceclose the editor 
+To modify the cahnges we careate incrementel changes 
+changes are created
